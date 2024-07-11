@@ -1,6 +1,8 @@
 # LPRNet_rknn_Cplusplus
 车牌识别 LPRNet : License Plate Recognition via Deep Neural Networks 部署rk3588，C++实现。
 
+导出onnx、onnx转rknn参考[【LPRNet 车牌识别部署 rk3588（pt-onnx-rknn）各个步骤完整代码】](https://blog.csdn.net/zhangqian_1/article/details/140358205)
+
 
 ## 编译和运行
 
