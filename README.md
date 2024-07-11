@@ -39,6 +39,8 @@ int main(int argc, char **argv)
 
 # 板端测试效果
 
+说明：由于中文显示出现乱码，示例代码中用拼英简写对中文进行了规避。
+
 ![image](https://github.com/cqu20160901/LPRNet_rknn_Cplusplus/blob/main/examples/rknn_LicenseRec_LPRNet/test_result.jpg)
 
 
