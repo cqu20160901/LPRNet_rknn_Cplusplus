@@ -48,7 +48,7 @@ int main(int argc, char **argv)
 
 ![image](https://github.com/cqu20160901/LPRNet_rknn_Cplusplus/assets/22290931/c771ae1a-98a2-4e99-bd25-e8f1b37e5e21)
 
-模型这么小在rk3588上推理时耗是比较长的，毫无疑问是模型推理过程中有操作切换到CPU上了。如果对性能要求的比较高，可以针对切换的CPU上的操作进行规避或替换。切换到CPU上操作的部分算子。
+模型这么小在rk3588上推理时耗还是比较长的，毫无疑问是模型推理过程中有操作切换到CPU上了。如果对性能要求的比较高，可以针对切换的CPU上的操作进行规避或替换。查看转换rknn模型log可以知道是那些操作切换到CPU上了。
 
 ![image](https://github.com/cqu20160901/LPRNet_rknn_Cplusplus/assets/22290931/5c4c2fab-235c-40cb-8f5c-8548269333bd)
 
