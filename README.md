@@ -39,7 +39,7 @@ int main(int argc, char **argv)
 
 # 板端测试效果
 
-![image](https://github.com/cqu20160901/LPRNet_rknn_Cplusplus/blob/main/examples/rknn_LicenseRec_LPRNet/test.jpg)
+![image](https://github.com/cqu20160901/LPRNet_rknn_Cplusplus/blob/main/examples/rknn_LicenseRec_LPRNet/test_result.jpg)
 
 
 板端时耗也贴出供参考：模型LPRNet，模型输入分辨率94x24, rk3588芯片。
